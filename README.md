@@ -17,7 +17,7 @@ This analysis aims to determine the **most impactful NBA player of the 2020s** u
    - Machine learning will help capture **complex interactions** among variables, revealing hidden patterns and offering a more nuanced ranking. However, we’ll carefully handle training and testing data to avoid overfitting and ensure robust results.
 
 ### 3️⃣ **Time-Series Analysis for Trend Detection**
-   - Using techniques like **Exponential Smoothing** or **ARIMA**, we’ll identify players with consistent improvement or decline, focusing on those with multi-season data.
+   - Using techniques like **RNN**, we’ll identify players with consistent improvement or decline, focusing on those with multi-season data.
    - This method is especially effective for detecting **player growth and consistency** over time, though it may be limited for players with shorter careers or those who missed seasons due to injury.
 
 ## 🔧 **Data Preparation**
