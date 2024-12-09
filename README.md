@@ -1,6 +1,6 @@
 # 🏀 Analysis Plan for Identifying the Most Impactful NBA Player of the 2020s
 
-**Authors**: Shaan Patel, Connor
+**Authors**: Shaan Patel, Connor Conglio
 
 ## 📌 Purpose
 
